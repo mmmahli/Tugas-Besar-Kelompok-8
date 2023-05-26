@@ -1,10 +1,14 @@
 # TUBES-PKSKU
 Muhammad Ilham (122130031) Teknik Elektro
+
 Hans Cristopher Ebenezer Sinaga (122130039) Teknik Elektro
+
 Miftahul Jannah (122130045) Teknik Elektro
 # PENGANTAR KOMPUTER DAN SOFTWARE
 Nama Dosen: Asep Nurul Ajid Mustofa
+
 Nama Asisten Praktikum 1: Marchel Ferry Timoteus Samosir
+
 Nama Asisten Praktikum 2: David Panondang Sinaga
 # CARA MENGGUNAKAN PROGRAM 
 1. Buka aplikasi Dev C++
