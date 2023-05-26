@@ -37,15 +37,13 @@ Nama Asisten Praktikum 2: David Panondang Sinaga
  	<tr>
  		<td> Program</td>
  		<td> https://github.com/mmmahli/TUBES-PKSKU/edit/main/README.md</td>
-		<td> Link Youtube</td>
-		<td> Laporan</td>
  	</tr>
  	<tr>
  		<td> Program Running</td>
  		<td> https://replit.com/@MuhammadIlha249/Program-Konversi-Satuan-Listrik</td>
 		</tr>
  	<tr>
- 		<td> Link Youtube/td>
+ 		<td> Link Youtube</td>
  		<td> https://youtu.be/1J3B_-Mwisk</td>
 		</tr>
  	<tr>
