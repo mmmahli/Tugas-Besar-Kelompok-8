@@ -37,8 +37,8 @@ Program konversi satuan listrik adalah program yang dapat melakukan perhitungan 
  
  <table>
  	<tr>	
-		<td> :-FILE-:</td>
- 		<td> :-LINK-:</td>
+		<td> FILE</td>
+ 		<td> LINK</td>
  		</tr>
  	<tr>
  		<td> Program</td>
