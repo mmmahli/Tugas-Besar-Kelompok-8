@@ -29,7 +29,6 @@ Nama Asisten Praktikum 2: David Panondang Sinaga
 # DOKUMENTASI
 <html>
 <head>
-	<title> Belajar Tabel HTML</title>
 	<meta charset="utf-8">
 </head>
 <body>
@@ -37,7 +36,7 @@ Nama Asisten Praktikum 2: David Panondang Sinaga
  <table>
  	<tr>
  		<td> Program</td>
- 		<td> Program Running</td>
+ 		<td> https://github.com/mmmahli/TUBES-PKSKU/edit/main/README.md</td>
 		<td> Link Youtube</td>
 		<td> Laporan</td>
  	</tr>
