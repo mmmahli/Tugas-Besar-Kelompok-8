@@ -41,7 +41,7 @@ Nama Asisten Praktikum 2: David Panondang Sinaga
 		<td> Laporan</td>
  	</tr>
  	<tr>
- 		<td> https://github.com/mmmahli/TUBES-PKSKU/edit/main/README.md</td>
+ 		<td> Program Running</td>
  		<td> https://replit.com/@MuhammadIlha249/Program-Konversi-Satuan-Listrik</td>
 		<td> https://youtu.be/1J3B_-Mwisk</td>
 		<td> https://drive.google.com/file/d/12CVTomcsjdK3Z76-uqozYTU5LSqvu4Fk/view?usp=share_link</td>
