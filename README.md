@@ -1,4 +1,6 @@
-# TUBES-PKSKU
+# PROGRAM KONVERSI SATUAN LISTRIK
+Program konversi satuan listrik adalah program yang dapat melakukan perhitungan sederhana untuk mengkonversi beberapa satuan listrik dalam satuan SI. Sehingga pekerjaan dalam menghitung naik dan turunnya nilai satuan dapat lebih tepat dan efisien
+# ANGGOTA KELOMPOK
 - Muhammad Ilham (122130031) Teknik Elektro TPB 7
 
 - Hans Cristopher Ebenezer Sinaga (122130039) Teknik Elektro TPB 7
@@ -26,7 +28,7 @@
 4. Kemudian program akan melakukan perkalian atau pembagian tergantung          inputan yang dimasukkan oleh user
 5. Setelah itu program menggunakan keluaran (output) untuk menunjukkan hasil    dari proses program yang sudah di input sesuai satuan internasional.
 6. Kemudian program akan meminta inputan kepada user untuk melakukan            perulangan atau tidak dengan menggunakan perulangan do-while
-# DOKUMENTASI
+# MEDIA
 <html>
 <head>
 	<meta charset="utf-8">
