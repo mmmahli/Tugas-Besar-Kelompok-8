@@ -43,8 +43,14 @@ Nama Asisten Praktikum 2: David Panondang Sinaga
  	<tr>
  		<td> Program Running</td>
  		<td> https://replit.com/@MuhammadIlha249/Program-Konversi-Satuan-Listrik</td>
-		<td> https://youtu.be/1J3B_-Mwisk</td>
-		<td> https://drive.google.com/file/d/12CVTomcsjdK3Z76-uqozYTU5LSqvu4Fk/view?usp=share_link</td>
+		</tr>
+ 	<tr>
+ 		<td> Link Youtube/td>
+ 		<td> https://youtu.be/1J3B_-Mwisk</td>
+		</tr>
+ 	<tr>
+ 		<td> Laporan</td>
+ 		<td> https://drive.google.com/file/d/12CVTomcsjdK3Z76-uqozYTU5LSqvu4Fk/view?usp=share_link</td>
  	</tr>
  </table>
 
