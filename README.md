@@ -36,10 +36,14 @@ Program konversi satuan listrik adalah program yang dapat melakukan perhitungan 
 <body>
  
  <table>
+ 	<tr>	
+		<td> :-FILE-:</td>
+ 		<td> :-LINK-:</td>
+ 		</tr>
  	<tr>
  		<td> Program</td>
  		<td> https://github.com/mmmahli/TUBES-PKSKU/edit/main/README.md</td>
- 	</tr>
+ 		</tr>
  	<tr>
  		<td> Program Running</td>
  		<td> https://replit.com/@MuhammadIlha249/Program-Konversi-Satuan-Listrik</td>
