@@ -1,9 +1,9 @@
 # TUBES-PKSKU
-Muhammad Ilham (122130031) Teknik Elektro
+Muhammad Ilham (122130031) Teknik Elektro TPB 7
 
-Hans Cristopher Ebenezer Sinaga (122130039) Teknik Elektro
+Hans Cristopher Ebenezer Sinaga (122130039) Teknik Elektro TPB 7
 
-Miftahul Jannah (122130045) Teknik Elektro
+Miftahul Jannah (122130045) Teknik Elektro TPB 7
 # PENGANTAR KOMPUTER DAN SOFTWARE
 Nama Dosen: Asep Nurul Ajid Mustofa
 
@@ -36,12 +36,16 @@ Nama Asisten Praktikum 2: David Panondang Sinaga
  
  <table>
  	<tr>
- 		<td> Baris 1 Kolom 1</td>
- 		<td> Baris 1 Kolom 2</td>
+ 		<td> Program</td>
+ 		<td> Program Running</td>
+		<td> Link Youtube</td>
+		<td> Laporan</td>
  	</tr>
  	<tr>
- 		<td> Baris 2 Kolom 1</td>
- 		<td> Baris 2 Kolom 2</td>
+ 		<td> https://github.com/mmmahli/TUBES-PKSKU/edit/main/README.md</td>
+ 		<td> https://replit.com/@MuhammadIlha249/Program-Konversi-Satuan-Listrik</td>
+		<td> https://youtu.be/1J3B_-Mwisk</td>
+		<td> https://drive.google.com/file/d/12CVTomcsjdK3Z76-uqozYTU5LSqvu4Fk/view?usp=share_link</td>
  	</tr>
  </table>
 
