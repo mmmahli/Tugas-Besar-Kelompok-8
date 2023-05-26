@@ -1,0 +1,88 @@
+// Tugas Besar PKS 2 TPB 7
+// Muhammad Ilham_122130031 & Hans Cristopher Ebenezer S._122130039 & Miftahul
+// Jannah_122130045
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+  // Deklarasi variabel dan penggunaan konsep array
+  string satuanListrik[] = {"Volt (V)", "Watt (W)", "Ampere (A)", "Ohm (Ω)",
+                            "Farad (F)"};
+  string satuanKonversi[] = {"Milli (m)", "Kilo (k)", "Mega (M)"};
+  double faktorKonversi[] = {1000, 0.001, 0.000001};
+
+  string ulang;
+
+  // Perulangan do while
+  do {
+
+    // Menggunakan do untuk melakukan perulangan yes or no
+    cout << "=========================================" << endl;
+    cout << "== PROGRAM PENGKONVERSI SATUAN LISTRIK ==" << endl;
+    cout << "=========================================" << endl;
+    cout << "-------Pilih Besaran/Satuan Listrik------" << endl;
+    for (int i = 0; i < 5; i++) {
+      cout << "--\t" << (i + 1) << ". " << satuanListrik[i] << "\t\t--\t\t"
+           << endl;
+    }
+    cout << "-----------------------------------------" << endl;
+    cout << "Masukkan pilihan anda: ";
+    int pilihan;
+    cin >> pilihan;
+    cout << endl;
+
+    // Percabangan jika tidak sesuai dengan pemilihan
+    if (pilihan < 1 || pilihan > 5) {
+      cout << "Pilihan tidak valid!" << endl;
+      continue;
+    }
+
+    string satuan = satuanListrik[pilihan - 1];
+
+    // Melakukan percabangan pemilihan konversi
+    cout << "--Pilih Satuan yang Ingin Dikonversi--" << endl;
+    for (int i = 0; i < 3; i++) {
+      cout << "->\t" << (i + 1) << ". " << satuanKonversi[i] << "\t<-" << endl;
+    }
+    cout << "-----------------------------------------" << endl;
+    cout << "Masukkan pilihan Anda: ";
+    int pilih;
+    cin >> pilih;
+    cout << endl;
+
+    if (pilih < 1 || pilih > 3) {
+      cout << "Pilihan tidak valid!" << endl;
+      continue;
+    }
+
+    string konversi = satuanKonversi[pilih - 1];
+    double faktor = faktorKonversi[pilih - 1];
+
+    // Inputan Nilai
+    double nilai;
+    cout << "Masukkan Nilai: ";
+    cin >> nilai;
+    cout << endl;
+
+    // Proses Inputan Nilai
+    double hasil = nilai * faktor;
+    // output
+    cout << "Hasil konversi dari " << satuan << " ke " << konversi << " adalah "
+         << hasil << endl;
+    cout << endl;
+    cout << "Apakah Anda ingin melakukan perhitungan lagi? (ya/tidak): ";
+    cin >> ulang;
+
+    system("clear");
+
+    // Perulangan while syarat ketika ulang == ya dia akan melakukan perulangan
+    // kembali
+  } while (ulang == "ya" || ulang == "YA");
+
+  cout << "Terima kasih telah menggunakan program konversi satuan listrik!"
+       << endl;
+
+  return 0;
+}
