@@ -13,7 +13,7 @@ Program konversi satuan listrik adalah program yang dapat melakukan perhitungan 
 
 - Nama Asisten Praktikum 2: David Panondang Sinaga
 # CARA MENGGUNAKAN PROGRAM 
-1. Buka aplikasi Dev C++
+1. Jalankan program dengan menekan tombol "Run"
 2. Pilih besaran/satuan listrik (Volt, Ampere, Watt, Ohm, Farad)
 3. Pilih Satuan yang ingin dikonversi (Milli, Kilo, Mega)
 4. Setelah menginputkan nilai, program akan menampilkan hasil konversi.
