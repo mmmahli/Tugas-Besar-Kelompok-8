@@ -5,7 +5,6 @@ Program konversi satuan listrik adalah program yang dapat melakukan perhitungan 
 
 - Hans Cristopher Ebenezer Sinaga (122130039) Teknik Elektro TPB 7
 
-- Miftahul Jannah (122130045) Teknik Elektro TPB 7
 # PENGANTAR KOMPUTER DAN SOFTWARE
 - Nama Dosen: Asep Nurul Ajid Mustofa
 
